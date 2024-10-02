@@ -1,7 +1,7 @@
 ## Covid Website by Sai Rahul.
 - I created a covid website that helps people to know about the current number active covid cases and deaths due to covid.It also provides the precautions people need to take in order to be safe from covid.
 
-## My Website link: https://sai3rahul.github.io/finalpro/
+## My Website link: https://charans1.github.io/finalpro/
 
 
 ## Home page
